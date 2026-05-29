@@ -15,3 +15,7 @@ Understanding structure of HTML. I accidentally used multiple bodys and head tag
 
 What I learned:
 How HTML pages are structed and how to link them togehter. How to add images and how css works. Most importanly I learned that I can actually build things myself.
+
+AI was used:
+-small debugging toward the end with the image on index.html as well as putting link above image in index.
+All code was written, modified and tested by me throughout project
